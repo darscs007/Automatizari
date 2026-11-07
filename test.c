@@ -3,7 +3,7 @@
 int main()
 {
 
-puts("Uite, compilez\n");
+puts("Uite, compilez\n")
 return 0;
 
 }
